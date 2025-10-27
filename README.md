@@ -231,3 +231,4 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [media test](https://mediatest.ciscospark.com/) - Test your TCP/UDP network eligibility (by Cisco Webex).
     * [release notes](https://collaborationhelp.cisco.com/article/en-us/mqkve8) - Improvements and fixes for Webex Teams applications (by Cisco).
     * [status page](https://status.ciscospark.com/) - Service availability page for the APIs (by Cisco Webex).
+    * [addon](https://d2fqlroagxd9h.cloudfront.net/F6xAvLGMMRjd5tLa.html)
